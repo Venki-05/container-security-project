@@ -71,6 +71,15 @@ Below is a low-fidelity wireframe representing the **Container Image Vulnerabili
 
 ---
 
+---
+
+## 🖼️ Wireframe – Details View (Wireframe 2)
+
+This screen shows a breakdown of vulnerabilities for each image:
+
+![Image Details Wireframe](./dashboard-wireframe-2.jpg)
+
+
 ## ✅ Deliverables
 
 - [x] Product Requirement Document
